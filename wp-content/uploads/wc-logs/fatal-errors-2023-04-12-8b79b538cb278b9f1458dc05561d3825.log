@@ -1,0 +1,538 @@
+2023-04-12T11:08:50+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:08:51+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-cron.php(46): require_once('/Applications/X...')
+#8 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:08:53+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(false, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin-ajax.php(45): do_action('admin_init')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:09:03+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:09:11+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:09:31+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:11:56+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:17:13+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:17:49+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:22:00+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:26:39+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:29:08+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(13): require_once('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#9 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:34:44+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:34:54+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:34:54+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:37:23+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:37:30+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:37:30+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:44:30+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:44:40+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:44:42+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:47:01+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:47:08+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:47:08+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:53:09+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:53:16+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:53:17+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:54:38+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:54:46+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T11:54:52+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:06:42+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:06:43+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-cron.php(46): require_once('/Applications/X...')
+#8 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:07:30+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:07:34+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:07:48+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/admin.php(175): do_action('admin_init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(10): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:07:49+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(5841): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_plugin_code_type_changed('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-settings.php(623): do_action('init')
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php(102): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-load.php(50): require_once('/Applications/X...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-cron.php(46): require_once('/Applications/X...')
+#8 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:09:55+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:09:58+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:09:58+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:15:20+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:15:25+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:15:26+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:24:26+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:24:33+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:24:33+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:34:09+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/includes/plugin.php(691): do_action('activate_local-...', false)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(58): activate_plugin('local-delivery-...', 'http://localhos...', false)
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:34:16+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
+2023-04-12T12:34:16+00:00 CRITICAL Uncaught Error: Attempt to assign property "is_disconnected" on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:5468
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(7756): Freemius->reconnect_locally()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_activate_plugin_event_hook('')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin/plugins.php(194): do_action('activate_local-...')
+#5 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 5468
+
