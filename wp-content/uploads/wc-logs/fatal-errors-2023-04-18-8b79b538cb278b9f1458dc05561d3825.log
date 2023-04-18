@@ -1,0 +1,12 @@
+2023-04-18T04:36:16+00:00 CRITICAL Uncaught Error: Call to a member function get() on bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php:16399
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(6872): Freemius->sync_user_beta_mode()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(6784): Freemius->_sync_cron_method(Array, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php(6856): Freemius->execute_cron('sync', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(308): Freemius->_sync_cron()
+#4 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-cron.php(188): do_action_ref_array('fs_data_sync_lo...', Array)
+#7 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/local-delivery-drivers-for-woocommerce-premium/freemius/includes/class-freemius.php on line 16399
+
